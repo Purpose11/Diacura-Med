@@ -1,0 +1,23 @@
+<svg width="291" height="525" viewBox="0 0 291 525" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g filter="url(#filter0_b_1618_13342)">
+<path d="M133.815 223.31L83.8022 191.25L33.7891 223.31V282.849L83.8022 310.329L133.815 282.849V223.31Z" fill="#094063" fill-opacity="0.3"/>
+<path d="M186.21 128.047L136.197 95.9873L86.1836 128.047V187.586L136.197 215.066L186.21 187.586V128.047Z" fill="#094063" fill-opacity="0.3"/>
+<path d="M238.604 32.7833L188.591 0.723633L138.578 32.7833V92.3228L188.591 119.803L238.604 92.3228V32.7833Z" fill="#094063" fill-opacity="0.1"/>
+<path d="M133.815 32.7833L83.8022 0.723633L33.7891 32.7833V92.3228L83.8022 119.803L133.815 92.3228V32.7833Z" fill="#094063" fill-opacity="0.1"/>
+<path d="M29.0263 32.7834L-20.9868 0.723633L-71 32.7834V92.3228L-20.9868 119.803L29.0263 92.3228V32.7834Z" fill="#094063" fill-opacity="0.1"/>
+<path d="M238.604 223.31L188.591 191.25L138.578 223.31V282.849L188.591 310.329L238.604 282.849V223.31Z" fill="#094063" fill-opacity="0.3"/>
+<path d="M29.0263 223.31L-20.9868 191.25L-71 223.31V282.849L-20.9868 310.329L29.0263 282.849V223.31Z" fill="#094063" fill-opacity="0.3"/>
+<path d="M81.4209 318.572L31.4077 286.513L-18.6055 318.572V378.112L31.4077 405.592L81.4209 378.112V318.572Z" fill="#094063" fill-opacity="0.1"/>
+<path d="M190.976 437.652L140.962 405.592L90.9492 437.652V497.191L140.962 524.671L190.976 497.191V437.652Z" fill="#094063" fill-opacity="0.1"/>
+<path d="M186.21 318.572L136.197 286.513L86.1836 318.572V378.112L136.197 405.592L186.21 378.112V318.572Z" fill="#094063" fill-opacity="0.1"/>
+<path d="M290.999 318.572L240.986 286.513L190.973 318.572V378.112L240.986 405.592L290.999 378.112V318.572Z" fill="#094063" fill-opacity="0.1"/>
+</g>
+<defs>
+<filter id="filter0_b_1618_13342" x="-525" y="-399.276" width="1216" height="1323.95" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feGaussianBlur in="BackgroundImageFix" stdDeviation="200"/>
+<feComposite in2="SourceAlpha" operator="in" result="effect1_backgroundBlur_1618_13342"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_backgroundBlur_1618_13342" result="shape"/>
+</filter>
+</defs>
+</svg>

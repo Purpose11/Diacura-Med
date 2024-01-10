@@ -1,5 +1,5 @@
 import { Link } from "react-router-dom";
-import doctor from "../assets/images/doctor.png";
+import doctor from "../assets/images/doctor.svg";
 import Ellipse from "../assets/images/Ellipse.svg";
 
 const Hero = () => {

@@ -36,16 +36,16 @@ const data = [
 
 const AboutUs = () => {
   return (
-    <div className="w-full h-[642px] bg-[#094063] mt-[130px] flex flex-col items-center justify-around">
+    <div className="w-full h-[642px] bg-[#094063] mt-[130px] flex flex-col items-center justify-around z-10">
       <h1 className=" font-extrabold text-[36px] leading-[49.03px] text-center text-white">
         Why should you trust us ? <br /> Get to know about us
       </h1>
-      <div className="flex items-center w-[85%] mx-auto justify-between">
+      <div className="flex items-center  mx-auto gap-8">
         {data.map((item) => {
           return (
             <div
               key={item.id}
-              className=" w-[254px] h-[286px] bg-white rounded-3xl flex flex-col items-center justify-center gap-5"
+              className=" w-[254px] h-[286px] bg-white rounded-3xl flex flex-col items-center justify-center gap-5 z-10"
             >
               <div className="bg-[#CFE5F2] flex items-center justify-center w-[81px] h-[81px] rounded-full">
                 <img src={item.icon} className="h-[32px]" />
